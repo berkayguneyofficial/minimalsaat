@@ -1,0 +1,5 @@
+{
+  "name": "ChronoCraft",
+  "description": "A highly customizable, modern, and minimalist analog clock application built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
